@@ -1,0 +1,10 @@
+{
+  "/favicon.ico/route": "/favicon.ico",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/join-us/page": "/join-us",
+  "/members/page": "/members",
+  "/page": "/",
+  "/partners/page": "/partners"
+}

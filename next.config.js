@@ -1,12 +1,9 @@
-/** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',       // enable static export
-  basePath: '/phreaks',   // set this to your GitHub repo name
-  assetPrefix: '/phreaks/',
-
-  images: {
-    unoptimized: true     // required for static export
-  }
+  output: 'export',
+  basePath: '',
+  assetPrefix: '',
+  images: { unoptimized: true },
+  turbopack: { root: __dirname }  // explicitly set root
 }
 
 module.exports = nextConfig

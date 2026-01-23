@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[5727,["756","static/chunks/756-9ca18925d46b310b.js","284","static/chunks/app/partners/page-0f1cf8823aded004.js"],"default"]
+3:I[484,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"o_ARzEtjevNM9kbBSSduM","rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","div",null,{"className":"pt-20 min-h-screen","children":["$","div",null,{"id":"CTFs","className":"page text-center px-5 py-10","children":[["$","h2",null,{"className":"text-2xl md:text-3xl mb-8 text-center","children":"Partners"}],["$","p",null,{"className":"text-center leading-relaxed space-y-6 text-sm md:text-base","children":"Information about our Partners goes here."}]]}]}]],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
