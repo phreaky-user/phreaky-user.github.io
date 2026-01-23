@@ -1,0 +1,13 @@
+:HL["/_next/static/media/739c2d8941231bb4-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/db234bd00cda6a96-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/c5ef083fee79f06a.css","style"]
+:HL["/_next/static/css/50ce44dd421f579a.css","style"]
+:HL["https://avatars.githubusercontent.com/u/124378926?v=4","image"]
+:HL["https://i.pinimg.com/originals/e2/3c/67/e23c67c1c2858dfaebe0a6383fd1d699.gif","image"]
+:HL["https://avatars.githubusercontent.com/u/69780128?v=4","image"]
+:HL["https://avatars.githubusercontent.com/u/87090666?v=4","image"]
+:HL["https://raw.githubusercontent.com/Hilmi-z/pics-for-project/refs/heads/main/243677050_1585958308418044_6938801003847756136_n.jpg","image"]
+:HL["https://i.pinimg.com/originals/47/c9/55/47c9552e5cc72583c617c30cd378fbf0.gif","image"]
+:HL["https://media.tenor.com/rUdNSJQOiU8AAAAM/dechartgames-hungry-garden.gif","image"]
+:HL["https://deadnaut.me/img/author.gif","image"]
+0:{"buildId":"sLrmBkth63zvWcB4MWsiV","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"members","paramType":null,"paramKey":"members","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
