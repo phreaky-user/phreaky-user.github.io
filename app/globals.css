@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+/* ====== Base Styles ====== */
+@layer base {
+  body {
+    background-color: black;
+    color: white;
+    cursor: url('https://raw.githubusercontent.com/Hilmi-z/cursorphreaky/refs/heads/main/phreaks.png'), auto;
+    font-family: "Press Start 2P", monospace;
+  }
+
+  /* Import pixel font */
+  @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+}
+
+/* ====== Utilities ====== */
+@layer utilities {
+  .cursor-custom {
+    cursor: url('https://raw.githubusercontent.com/Hilmi-z/cursorphreaky/refs/heads/main/phreaks.png'), auto;
+  }
+
+  /* ===== Scrollbar ===== */
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: rgb(0, 0, 0);
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    border: 2px solid black;
+  }
+
+  /* Firefox */
+  body {
+    scrollbar-width: thin;
+    scrollbar-color: rgb(0, 0, 0) rgb(0, 0, 0);
+  }
+
+  /* ===== Blink Animation ===== */
+  @keyframes blink {
+    0%, 50%, 100% {
+      opacity: 1;
+    }
+    25%, 75% {
+      opacity: 0;
+    }
+  }
+
+  .animate-blink {
+    animation: blink 2s infinite steps(1, start);
+  }
+}
