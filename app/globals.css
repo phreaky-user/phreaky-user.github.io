@@ -1,5 +1,6 @@
 
 @import "tailwindcss";
+@import "flag-icons/css/flag-icons.min.css";
 
 /* ====== Base Styles ====== */
 @layer base {

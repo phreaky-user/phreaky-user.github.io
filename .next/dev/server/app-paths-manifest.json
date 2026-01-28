@@ -1,7 +1,6 @@
 {
-  "/achievements/page": "app/achievements/page.js",
-  "/about/page": "app/about/page.js",
-  "/join-us/page": "app/join-us/page.js",
   "/page": "app/page.js",
-  "/members/page": "app/members/page.js"
+  "/about/page": "app/about/page.js",
+  "/achievements/page": "app/achievements/page.js",
+  "/join-us/page": "app/join-us/page.js"
 }
