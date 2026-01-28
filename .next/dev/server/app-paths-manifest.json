@@ -2,5 +2,6 @@
   "/page": "app/page.js",
   "/about/page": "app/about/page.js",
   "/achievements/page": "app/achievements/page.js",
-  "/join-us/page": "app/join-us/page.js"
+  "/join-us/page": "app/join-us/page.js",
+  "/members/page": "app/members/page.js"
 }

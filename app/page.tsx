@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <div id="intro" className="w-full h-screen flex flex-col items-center justify-center text-center bg-black text-white">
       <img 
-        src="https://raw.githubusercontent.com/Hilmi-z/cursorphreaky/refs/heads/main/logty_pixelated_more.png" 
+        src="phreaky.png" 
         alt="Intro Image" 
         className="w-[150px] h-[150px] md:w-[120px] md:h-[120px] lg:w-[150px] lg:h-[150px] object-cover border-2 border-black 
         rounded-lg shadow-lg transition-transform duration-300 ease-in-out hover:scale-110 hover:shadow-xl my-2.5 mb-10"

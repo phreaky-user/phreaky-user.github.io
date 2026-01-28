@@ -86,10 +86,11 @@ export default function Achievements() {
                   key={r.label}
                   className="rounded-2xl border border-white/10 bg-white/5 backdrop-blur-sm p-4"
                 >
-                  <div className="text-[10px] opacity-75">{r.label}</div>
-                  <div className="mt-2 text-lg md:text-xl font-semibold modern-font tracking-tight">
+                  <div className="text-[11px] opacity-75">{r.label}</div>
+                  <div className="mt-1 text-sm md:text-base font-semibold modern-font tracking-tight text-[#00CED1]">
   {r.value}
 </div>
+
                 </div>
               ))}
             </div>

@@ -11,12 +11,18 @@ export default function Projects() {
           <p className="text-center leading-relaxed space-y-6 text-sm md:text-base">
             Fill the forun to become a Phreak!
           </p>
-          <button 
-  className='w-[120px] h-[40px] bg-white text-black mt-8 rounded-[5px] hover:bg-slate-300 transition-colors duration-200'
-  onClick={() => window.open('https://docs.google.com/forms/d/e/1FAIpQLSe07k47Sx0Uxej3AL8C3fl_8_Dqc-VG-0Es5iliFmfLw_K0rQ/viewform?usp=publish-editor', '_blank')}
->
-            FORUM
-          </button>
+
+          <div className="w-full flex justify-center px-4">
+  <iframe
+    src="https://docs.google.com/forms/d/e/1FAIpQLSe07k47Sx0Uxej3AL8C3fl_8_Dqc-VG-0Es5iliFmfLw_K0rQ/viewform?embedded=true"
+    className="w-full max-w-3xl h-[900px] rounded-xl border border-white/10 bg-black"
+    frameBorder="0"
+    marginHeight={0}
+    marginWidth={0}
+  >
+    Loading…
+  </iframe>
+</div>
         </div>
       </div>
     </>

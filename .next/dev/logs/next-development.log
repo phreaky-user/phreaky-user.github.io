@@ -1,3 +1,764 @@
-[00:00:04.020] Server  LOG     ✓ Ready in 3.3s
-[00:00:07.176] Server  LOG     ○ Compiling / ...
-[00:00:09.974] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:04.609] Server  LOG     ✓ Ready in 3.8s
+[00:00:07.816] Server  LOG     ○ Compiling /about ...
+[00:00:13.197] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:15.342] Browser ERROR   ./app/about/page.tsx
+Error:   × Expression expected
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:32:1]
+ 29 │ >
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │  <img
+    ·  ─
+ 33 │   src="/ctftime.png"
+ 34 │   alt="CTFtime"
+ 34 │   className="w-8 h-8 md:w-10 md:h-10 invert"
+    ╰────
+  × Expected ',', got 'ident'
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │  <img
+ 33 │   src="/ctftime.png"
+    ·   ───
+ 34 │   alt="CTFtime"
+ 35 │   className="w-8 h-8 md:w-10 md:h-10 invert"
+ 35 │ />
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/about/page.tsx
+[00:02:16.610] Server  ERROR   ⨯ ./app/about/page.tsx
+Error:   × Expression expected
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:32:1]
+ 29 │ >
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │  <img
+    ·  ─
+ 33 │   src="/ctftime.png"
+ 34 │   alt="CTFtime"
+ 34 │   className="w-8 h-8 md:w-10 md:h-10 invert"
+    ╰────
+  × Expected ',', got 'ident'
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │  <img
+ 33 │   src="/ctftime.png"
+    ·   ───
+ 34 │   alt="CTFtime"
+ 35 │   className="w-8 h-8 md:w-10 md:h-10 invert"
+ 35 │ />
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/about/page.tsx
+[00:02:20.074] Browser ERROR   ./app/about/page.tsx
+Error:   × Expression expected
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:32:1]
+ 29 │ >
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │  <img
+    ·  ─
+ 33 │   src="/ctftime.png"
+ 34 │   alt="CTFtime"
+ 34 │   className="w-8 h-8 md:w-10 md:h-10 invert"
+    ╰────
+  × Expected ',', got 'ident'
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │  <img
+ 33 │   src="/ctftime.png"
+    ·   ───
+ 34 │   alt="CTFtime"
+ 35 │   className="w-8 h-8 md:w-10 md:h-10 invert"
+ 35 │ />
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/about/page.tsx
+[00:02:21.047] Browser ERROR   ./app/about/page.tsx
+Error:   × Expression expected
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:32:1]
+ 29 │ >
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │  <img
+    ·  ─
+ 33 │   src="/ctftime-DFh-h_jq.png"
+ 34 │   alt="CTFtime"
+ 34 │   className="w-8 h-8 md:w-10 md:h-10 invert"
+    ╰────
+  × Expected ',', got 'ident'
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │  <img
+ 33 │   src="/ctftime-DFh-h_jq.png"
+    ·   ───
+ 34 │   alt="CTFtime"
+ 35 │   className="w-8 h-8 md:w-10 md:h-10 invert"
+ 35 │ />
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/about/page.tsx
+[00:02:21.268] Server  ERROR   ⨯ ./app/about/page.tsx
+Error:   × Expression expected
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:32:1]
+ 29 │ >
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │  <img
+    ·  ─
+ 33 │   src="/ctftime-DFh-h_jq.png"
+ 34 │   alt="CTFtime"
+ 34 │   className="w-8 h-8 md:w-10 md:h-10 invert"
+    ╰────
+  × Expected ',', got 'ident'
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │  <img
+ 33 │   src="/ctftime-DFh-h_jq.png"
+    ·   ───
+ 34 │   alt="CTFtime"
+ 35 │   className="w-8 h-8 md:w-10 md:h-10 invert"
+ 35 │ />
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/about/page.tsx
+[00:02:21.533] Server  LOG     ○ Compiling /_error ...
+[00:02:23.538] Browser ERROR   uncaughtError: ModuleBuildError: Module build failed (from ./node_modules/next/dist/build/webpack/loaders/next-swc-loader.js):
+Error:   × Expression expected
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:32:1]
+ 29 │ >
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │  <img
+    ·  ─
+ 33 │   src="/ctftime-DFh-h_jq.png"
+ 34 │   alt="CTFtime"
+ 34 │   className="w-8 h-8 md:w-10 md:h-10 invert"
+    ╰────
+  × Expected ',', got 'ident'
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │  <img
+ 33 │   src="/ctftime-DFh-h_jq.png"
+    ·   ───
+ 34 │   alt="CTFtime"
+ 35 │   className="w-8 h-8 md:w-10 md:h-10 invert"
+ 35 │ />
+    ╰────
+
+
+Caused by:
+    Syntax Error
+[00:02:23.729] Server  WARN    ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:02:23.729] Browser ERROR   ./app/about/page.tsx
+Error:   × Expression expected
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:32:1]
+ 29 │ >
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │  <img
+    ·  ─
+ 33 │   src="/ctftime-DFh-h_jq.png"
+ 34 │   alt="CTFtime"
+ 34 │   className="w-8 h-8 md:w-10 md:h-10 invert"
+    ╰────
+  × Expected ',', got 'ident'
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │  <img
+ 33 │   src="/ctftime-DFh-h_jq.png"
+    ·   ───
+ 34 │   alt="CTFtime"
+ 35 │   className="w-8 h-8 md:w-10 md:h-10 invert"
+ 35 │ />
+    ╰────
+
+Caused by:
+    Syntax Error
+[00:02:24.511] Server  WARN    ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:02:25.084] Browser ERROR   ./app/about/page.tsx
+Error:   × Unexpected token. Did you mean `{'>'}` or `&gt;`?
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:34:1]
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="w-8 h-8 md:w-10 md:h-10 invert"
+ 34 │ />
+    ·  ▲
+ 35 │ </a>
+ 36 │ 
+ 36 │ 
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/about/page.tsx
+[00:02:25.089] Server  WARN    ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:02:25.826] Server  WARN    ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:02:25.826] Browser ERROR   ./app/about/page.tsx
+Error:   × Unexpected token. Did you mean `{'>'}` or `&gt;`?
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:34:1]
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="w-8 h-8 md:w-10 md:h-10 invert"
+ 34 │ />
+    ·  ▲
+ 35 │ </a>
+ 36 │ 
+ 36 │ 
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/about/page.tsx
+[00:02:26.367] Server  WARN    ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:02:27.043] Browser ERROR   ./app/about/page.tsx
+Error:   × Expression expected
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:32:1]
+ 29 │ >
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │  <img
+    ·  ─
+ 33 │   src="/ctftime-DFh-h_jq.png"
+ 34 │   alt="CTFtime"
+ 34 │   className="w-8 h-8 md:w-10 md:h-10 invert"
+    ╰────
+  × Expected ',', got 'ident'
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │  <img
+ 33 │   src="/ctftime-DFh-h_jq.png"
+    ·   ───
+ 34 │   alt="CTFtime"
+ 35 │   className="w-8 h-8 md:w-10 md:h-10 invert"
+ 35 │ />
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/about/page.tsx
+[00:02:27.355] Server  ERROR   ⨯ ./app/about/page.tsx
+Error:   × Expression expected
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:32:1]
+ 29 │ >
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │  <img
+    ·  ─
+ 33 │   src="/ctftime-DFh-h_jq.png"
+ 34 │   alt="CTFtime"
+ 34 │   className="w-8 h-8 md:w-10 md:h-10 invert"
+    ╰────
+  × Expected ',', got 'ident'
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │  <img
+ 33 │   src="/ctftime-DFh-h_jq.png"
+    ·   ───
+ 34 │   alt="CTFtime"
+ 35 │   className="w-8 h-8 md:w-10 md:h-10 invert"
+ 35 │ />
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/about/page.tsx
+[00:02:27.658] Server  ERROR   ⨯ ./app/about/page.tsx
+Error:   × Expression expected
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:32:1]
+ 29 │ >
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │  <img
+    ·  ─
+ 33 │   src="/ctftime-DFh-h_jq.png"
+ 34 │   alt="CTFtime"
+ 34 │   className="w-8 h-8 md:w-10 md:h-10 invert"
+    ╰────
+  × Expected ',', got 'ident'
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │  <img
+ 33 │   src="/ctftime-DFh-h_jq.png"
+    ·   ───
+ 34 │   alt="CTFtime"
+ 35 │   className="w-8 h-8 md:w-10 md:h-10 invert"
+ 35 │ />
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/about/page.tsx
+[00:02:28.145] Browser ERROR   uncaughtError: ModuleBuildError: Module build failed (from ./node_modules/next/dist/build/webpack/loaders/next-swc-loader.js):
+Error:   × Expression expected
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:32:1]
+ 29 │ >
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │  <img
+    ·  ─
+ 33 │   src="/ctftime-DFh-h_jq.png"
+ 34 │   alt="CTFtime"
+ 34 │   className="w-8 h-8 md:w-10 md:h-10 invert"
+    ╰────
+  × Expected ',', got 'ident'
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │  <img
+ 33 │   src="/ctftime-DFh-h_jq.png"
+    ·   ───
+ 34 │   alt="CTFtime"
+ 35 │   className="w-8 h-8 md:w-10 md:h-10 invert"
+ 35 │ />
+    ╰────
+
+
+Caused by:
+    Syntax Error
+[00:02:30.996] Server  WARN    ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:02:31.946] Server  WARN    ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:02:33.288] Server  WARN    ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:02:34.359] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:40.806] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:03.752] Server  ERROR   ⨯ ./app/about/page.tsx
+Error:   × Unterminated string constant
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │  "
+ 35 │ />
+ 35 │ </a>
+    ╰────
+  × Expected '</', got 'string literal'
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │  "
+ 35 │ />
+ 35 │ </a>
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/about/page.tsx
+[00:04:04.012] Browser ERROR   ./app/about/page.tsx
+Error:   × Unterminated string constant
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │  "
+ 35 │ />
+ 35 │ </a>
+    ╰────
+  × Expected '</', got 'string literal'
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │  "
+ 35 │ />
+ 35 │ </a>
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/about/page.tsx
+[00:04:04.435] Server  ERROR   ⨯ ./app/about/page.tsx
+Error:   × Unterminated string constant
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │  "
+ 35 │ />
+ 35 │ </a>
+    ╰────
+  × Expected '</', got 'string literal'
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │  "
+ 35 │ />
+ 35 │ </a>
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/about/page.tsx
+[00:04:04.467] Browser ERROR   ./app/about/page.tsx
+Error:   × Unterminated string constant
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │  "
+ 35 │ />
+ 35 │ </a>
+    ╰────
+  × Expected '</', got 'string literal'
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │  "
+ 35 │ />
+ 35 │ </a>
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/about/page.tsx
+[00:04:05.780] Browser ERROR   uncaughtError: ModuleBuildError: Module build failed (from ./node_modules/next/dist/build/webpack/loaders/next-swc-loader.js):
+Error:   × Unterminated string constant
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │  "
+ 35 │ />
+ 35 │ </a>
+    ╰────
+  × Expected '</', got 'string literal'
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │  "
+ 35 │ />
+ 35 │ </a>
+    ╰────
+
+
+Caused by:
+    Syntax Error
+[00:04:09.930] Server  ERROR   ⨯ ./app/about/page.tsx
+Error:   × Unterminated string constant
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │ "
+ 35 │ />
+ 35 │ </a>
+    ╰────
+  × Expected '</', got 'string literal'
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │ "
+ 35 │ />
+ 35 │ </a>
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/about/page.tsx
+[00:04:09.938] Browser ERROR   ./app/about/page.tsx
+Error:   × Unterminated string constant
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │ "
+ 35 │ />
+ 35 │ </a>
+    ╰────
+  × Expected '</', got 'string literal'
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │ "
+ 35 │ />
+ 35 │ </a>
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/about/page.tsx
+[00:04:10.452] Browser ERROR   uncaughtError: ModuleBuildError: Module build failed (from ./node_modules/next/dist/build/webpack/loaders/next-swc-loader.js):
+Error:   × Unterminated string constant
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │ "
+ 35 │ />
+ 35 │ </a>
+    ╰────
+  × Expected '</', got 'string literal'
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │ "
+ 35 │ />
+ 35 │ </a>
+    ╰────
+
+
+Caused by:
+    Syntax Error
+[00:04:11.013] Browser ERROR   ./app/about/page.tsx
+Error:   × Unterminated string constant
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │ "
+ 35 │ />
+ 35 │ </a>
+    ╰────
+  × Expected '</', got 'string literal'
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │ "
+ 35 │ />
+ 35 │ </a>
+    ╰────
+
+Caused by:
+    Syntax Error
+[00:04:11.610] Server  WARN    ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:04:11.929] Server  WARN    ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:04:11.930] Browser ERROR   ./app/about/page.tsx
+Error:   × Unterminated string constant
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │ />
+ 35 │ </a>
+ 35 │ 
+    ╰────
+  × Expected '</', got 'string literal'
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │ />
+ 35 │ </a>
+ 35 │ 
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/about/page.tsx
+[00:04:12.558] Server  WARN    ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:04:12.943] Server  ERROR   ⨯ ./app/about/page.tsx
+Error:   × Unterminated string constant
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │ />
+ 35 │ </a>
+ 35 │ 
+    ╰────
+  × Expected '</', got 'string literal'
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │ />
+ 35 │ </a>
+ 35 │ 
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/about/page.tsx
+[00:04:12.954] Browser ERROR   ./app/about/page.tsx
+Error:   × Unterminated string constant
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │ />
+ 35 │ </a>
+ 35 │ 
+    ╰────
+  × Expected '</', got 'string literal'
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │ />
+ 35 │ </a>
+ 35 │ 
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/about/page.tsx
+[00:04:13.427] Browser ERROR   uncaughtError: ModuleBuildError: Module build failed (from ./node_modules/next/dist/build/webpack/loaders/next-swc-loader.js):
+Error:   × Unterminated string constant
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │ />
+ 35 │ </a>
+ 35 │ 
+    ╰────
+  × Expected '</', got 'string literal'
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │ />
+ 35 │ </a>
+ 35 │ 
+    ╰────
+
+
+Caused by:
+    Syntax Error
+[00:04:14.008] Browser ERROR   ./app/about/page.tsx
+Error:   × Unterminated string constant
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │ />
+ 35 │ </a>
+ 35 │ 
+    ╰────
+  × Expected '</', got 'string literal'
+    ╭─[C:\Users\hilmi\Desktop\claw ctf\phreaky-user.github.io\app\about\page.tsx:33:1]
+ 30 │  <img
+ 31 │   src="/ctftime-DFh-h_jq.png"
+ 32 │   alt="CTFtime"
+ 33 │   className="className="w-8 h-8 md:w-10 md:h-10"
+    ·                                                ─
+ 34 │ />
+ 35 │ </a>
+ 35 │ 
+    ╰────
+
+Caused by:
+    Syntax Error
+[00:04:18.175] Server  WARN    ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:04:19.309] Server  WARN    ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:04:21.093] Server  WARN    ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:04:21.974] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:40:46.822] Server  LOG     ○ Compiling /members ...
